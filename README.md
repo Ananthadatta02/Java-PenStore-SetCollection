@@ -1,7 +1,3 @@
-
-
-
-
 # Java Set Collection - Pen Store Management System  
 
 ## 📌 Overview  
